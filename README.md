@@ -7,4 +7,4 @@ With this, you can manage users in-game licenses (weapon license, drive license)
 I will update this to be more user friendly, since right now it only works for a specific version of the ESX Framework.
 
 # Commands
-/dajlicence <steamhex> <type>
+```/dajlicence <steamhex> <type>```
